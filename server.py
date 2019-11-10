@@ -1,10 +1,10 @@
-import os
-import socket
-
-from flask import Flask, render_template, send_from_directory, jsonify
 import ctypes
-import yaml
+import socket
 from time import sleep
+
+import yaml
+from flask import Flask, render_template, send_from_directory, jsonify
+
 with open('data.yml', 'r') as data:
     json_data = yaml.safe_load(data)
 
