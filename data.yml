@@ -1,0 +1,10 @@
+--- # Each button will have the text below.
+button1: "Button 1" # For example: Replace "Button 1" with what you want.
+button2: "Button 2"
+button3: "Button 3"
+button4: "Button 4"
+button5: "Button 5"
+button6: "Button 6"
+button7: "Button 7"
+button8: "Button 8"
+button9: "Button 9"
