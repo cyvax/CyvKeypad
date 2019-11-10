@@ -67,7 +67,7 @@ $(function() {
         $.get("/button8", {},
             function(data) {});
         return false;
-    })
+    });
 });
 $(function() {
     $("#button9").click(function(_) {
